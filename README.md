@@ -11,3 +11,4 @@ the full data science workflow:
 
 The Streamlit app allows users to adjust the churn probability threshold,
 highlighting business-driven decision making over raw accuracy.
+Live App: https://churn-project-ramzi.streamlit.app/
